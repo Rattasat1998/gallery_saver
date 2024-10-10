@@ -26,6 +26,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namspace "gallery_saver"
     compileSdkVersion 31
 
     sourceSets {
